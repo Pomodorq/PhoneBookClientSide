@@ -1,4 +1,10 @@
-# home
+# PhoneBook vue
+
+## Setup localhost
+```
+Установите значение hostname соответствующее localhost:port на котором запущено Asp.net приложение
+in src/api/store.js
+```
 
 ## Project setup
 ```
